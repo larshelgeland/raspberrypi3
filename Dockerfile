@@ -1,4 +1,4 @@
-FROM balenalib/raspberrypi3-64-debian-python:latest
+FROM python:3.10-slim
 
 WORKDIR /app
 COPY requirements.txt requirements.txt
