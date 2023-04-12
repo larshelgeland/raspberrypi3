@@ -1,5 +1,4 @@
-import streamlit as st
 
-st.title("StreamlitAzure")
+# This program prints Hello, world!
 
-st.write("Recevied login token:")
+print('Hello, world!')
